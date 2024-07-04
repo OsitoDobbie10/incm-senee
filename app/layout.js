@@ -1,8 +1,8 @@
 import { Urbanist } from "next/font/google";
 import "./globals.css";
 import Global from "@/Contexto/Global";
-import Header from "@/Components/Header";
-import Navbar from "@/Components/Navbar";
+import Header from "@/components/Header";
+import Navbar from "@/components/Navbar";
 const urbanist = Urbanist({ subsets: ["latin"] });
 export const metadata = {
   title: "Enee Distribucion",

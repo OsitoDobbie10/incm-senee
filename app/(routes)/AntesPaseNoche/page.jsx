@@ -1,8 +1,8 @@
-import PageTransition from "@/Components/PageTransition";
-import Container from "@/Components/Container";
-import CoverParticles from "@/Components/CoverParticles";
-import Con1AntesPaseNoche from "@/Components/Con1AntesPaseNoche";
-import TransitionComponent from "@/Components/TransitionComponent";
+import PageTransition from "@/components/PageTransition";
+import Container from "@/components/Container";
+import CoverParticles from "@/components/CoverParticles";
+import Con1AntesPaseNoche from "@/components/Con1AntesPaseNoche";
+import TransitionComponent from "@/components/TransitionComponent";
 const page = () => {
   return (
     <Container>

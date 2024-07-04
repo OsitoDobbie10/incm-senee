@@ -1,10 +1,10 @@
 "use client";
-import Container from "@/Components/Container";
-import CoverParticles from "@/Components/CoverParticles";
-import FormularioDurantePase from "@/Components/FormularioDurantePase";
-import PageTransition from "@/Components/PageTransition";
+import Container from "@/components/Container";
+import CoverParticles from "@/components/CoverParticles";
+import FormularioDurantePase from "@/components/FormularioDurantePase";
+import PageTransition from "@/components/PageTransition";
 import UseGlobal from "@/Contexto/UseGlobal";
-import TransitionComponent from "@/Components/TransitionComponent";
+import TransitionComponent from "@/components/TransitionComponent";
 import Swal from 'sweetalert2';
 const page = () => {
   const {ObjetoProgramasPase} = UseGlobal();

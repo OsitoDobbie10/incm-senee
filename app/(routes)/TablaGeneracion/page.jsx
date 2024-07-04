@@ -1,7 +1,7 @@
 import React from 'react'
-import PageTransition from '@/Components/PageTransition';
-import Container from '@/Components/Container';
-import SpinnerContainer2 from '@/Components/SpinnerContainer2';
+import PageTransition from '@/components/PageTransition';
+import Container from '@/components/Container';
+import SpinnerContainer2 from '@/components/SpinnerContainer2';
 const page = () => {
   return (
     <Container>

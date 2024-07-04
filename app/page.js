@@ -1,7 +1,7 @@
-import CoverParticles from "@/Components/CoverParticles";
-import Container from "@/Components/Container";
-import PageTransition from "@/Components/PageTransition";
-import Introduction from "@/Components/Introduction";
+import CoverParticles from "@/components/CoverParticles";
+import Container from "@/components/Container";
+import PageTransition from "@/components/PageTransition";
+import Introduction from "@/components/Introduction";
 export default function Home() {
   return (
    <Container>

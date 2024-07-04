@@ -1,13 +1,13 @@
 "use client";
-import Container from "@/Components/Container";
-import PageTransition from "@/Components/PageTransition";
+import Container from "@/components/Container";
+import PageTransition from "@/components/PageTransition";
 import UseGlobal from "@/Contexto/UseGlobal";
-import TransitionComponent from "@/Components/TransitionComponent";
-import CoverParticles from "@/Components/CoverParticles";
-import FormularioEntrada from "@/Components/FormularioEntrada";
-import Tabla from "@/Components/Tabla";
-//import Item1 from "@/Components/Item1";
-//import Item from "@/Components/Item";
+import TransitionComponent from "@/components/TransitionComponent";
+import CoverParticles from "@/components/CoverParticles";
+import FormularioEntrada from "@/components/FormularioEntrada";
+import Tabla from "@/components/Tabla";
+//import Item1 from "@/components/Item1";
+//import Item from "@/components/Item";
 const page = () => {
   const {ObjetoPostFacturacionform,GetObjetoPostFacturacionform} = UseGlobal();
   const {FechaPostFacturacion} = ObjetoPostFacturacionform;

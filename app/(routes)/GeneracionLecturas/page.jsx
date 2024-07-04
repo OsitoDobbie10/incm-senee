@@ -1,7 +1,7 @@
-import Container from "@/Components/Container";
-import PageTransition from "@/Components/PageTransition";
-import VistaGeneracionLecturas from "@/Components/VistaGeneracionLecturas";
-import CoverParticles from "@/Components/CoverParticles";
+import Container from "@/components/Container";
+import PageTransition from "@/components/PageTransition";
+import VistaGeneracionLecturas from "@/components/VistaGeneracionLecturas";
+import CoverParticles from "@/components/CoverParticles";
 const page = () => {
   return (
     <Container>
